@@ -2,6 +2,9 @@
 [![PyPI](https://img.shields.io/pypi/v/torchsr?color=orange)](https://pypi.org/project/torchsr/)
 [![GitHub](https://img.shields.io/github/license/coloquinte/torchsr?color=lightgrey)](https://opensource.org/licenses/MIT)
 
+In this fork, I made a minor change to some import statements in order to make torchSR work with latest torchvision versions.
+
+---
 
 # Super-Resolution Networks for Pytorch
 
